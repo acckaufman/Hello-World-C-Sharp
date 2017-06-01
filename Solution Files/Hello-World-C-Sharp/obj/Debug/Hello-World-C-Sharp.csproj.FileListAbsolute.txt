@@ -1,0 +1,9 @@
+C:\Users\Amanda\Desktop\HD\02 School\MSSA Cloud Developer\C# Programs\Hello-World-C-Sharp\Hello-World-C-Sharp\bin\Debug\Hello-World-C-Sharp.exe.config
+C:\Users\Amanda\Desktop\HD\02 School\MSSA Cloud Developer\C# Programs\Hello-World-C-Sharp\Hello-World-C-Sharp\bin\Debug\Hello-World-C-Sharp.exe
+C:\Users\Amanda\Desktop\HD\02 School\MSSA Cloud Developer\C# Programs\Hello-World-C-Sharp\Hello-World-C-Sharp\bin\Debug\Hello-World-C-Sharp.pdb
+C:\Users\Amanda\Desktop\HD\02 School\MSSA Cloud Developer\C# Programs\Hello-World-C-Sharp\Hello-World-C-Sharp\obj\Debug\Hello-World-C-Sharp.csprojResolveAssemblyReference.cache
+C:\Users\Amanda\Desktop\HD\02 School\MSSA Cloud Developer\C# Programs\Hello-World-C-Sharp\Hello-World-C-Sharp\obj\Debug\Hello-World-C-Sharp.exe
+C:\Users\Amanda\Desktop\HD\02 School\MSSA Cloud Developer\C# Programs\Hello-World-C-Sharp\Hello-World-C-Sharp\obj\Debug\Hello-World-C-Sharp.pdb
+C:\Users\Amanda\Desktop\HD\02 School\MSSA Cloud Developer\C# Programs\Hello-World-C-Sharp\Solution Files\Hello-World-C-Sharp\bin\Debug\Hello-World-C-Sharp.exe.config
+C:\Users\Amanda\Desktop\HD\02 School\MSSA Cloud Developer\C# Programs\Hello-World-C-Sharp\Solution Files\Hello-World-C-Sharp\obj\Debug\Hello-World-C-Sharp.exe
+C:\Users\Amanda\Desktop\HD\02 School\MSSA Cloud Developer\C# Programs\Hello-World-C-Sharp\Solution Files\Hello-World-C-Sharp\obj\Debug\Hello-World-C-Sharp.pdb
